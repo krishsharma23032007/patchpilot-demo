@@ -16,13 +16,22 @@
 
 [Overview](#-overview) • [How It Works](#-how-it-works) • [Setup](#-setup) • [Safety](#-safety--guardrails) • [Team](#-team) • [Hackathon](#-hackathon-context)
 
+<br/>
+
+> *"It works on my machine" was never a fix. It was a hope.* 🩹
+
 </div>
 
 <br/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" />
+
 ---
 
 ## 🎯 Overview
+
+> *Bugs don't schedule meetings. Neither does PatchPilot.*
+
 
 **PatchPilot** is a deliberately imperfect demo repository built to showcase an AI agent that **detects code issues and safely proposes/applies fixes** — without ever taking an irreversible action without a human in the loop.
 
@@ -42,6 +51,9 @@ It isn't a toy chatbot bolted onto a codebase. It's an agent designed around one
 
 ## 🧩 Features
 
+> *Not another AI that talks. One that actually touches code — carefully.*
+
+
 - 🩺 **Automated issue detection** across the codebase (`app.py`, tests, dependencies)
 - 🤖 **Agentic reasoning loop** for generating and evaluating candidate fixes
 - 📦 **Sandboxed execution** — generated code never touches production directly
@@ -52,6 +64,13 @@ It isn't a toy chatbot bolted onto a codebase. It's an agent designed around one
 ---
 
 ## 🏗️ Architecture
+
+> *Five steps between "found a bug" and "fixed a bug." No shortcuts.*
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=1800&pause=600&color=00B894&center=true&vCenter=true&width=560&lines=Detect+%E2%86%92+Reason+%E2%86%92+Sandbox+%E2%86%92+Approve+%E2%86%92+Apply" alt="Flow Typing SVG" />
+</div>
+
 
 ```mermaid
 flowchart LR
@@ -86,6 +105,9 @@ flowchart LR
 
 ## 🔄 How It Works
 
+> *Autonomy isn't a switch. It's a staircase — and we don't skip steps.*
+
+
 1. **Scan** — PatchPilot walks the repo and flags issues (bugs, bad patterns, failing tests).
 2. **Plan** — The agent reasons over the issue and drafts a candidate fix.
 3. **Sandbox** — The candidate fix is executed in isolation — never against live/production paths.
@@ -95,6 +117,9 @@ flowchart LR
 ---
 
 ## 🚀 Setup
+
+> *Four commands between you and a working agent. Let's go.*
+
 
 ```bash
 # 1. Clone the repo
@@ -128,7 +153,12 @@ patchpilot-demo/
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" />
+
 ## 🛡️ Safety & Guardrails
+
+> *The scariest agents aren't the ones that fail. They're the ones that don't stop.*
+
 
 PatchPilot is built to satisfy a simple, non-negotiable rule set:
 
@@ -155,6 +185,9 @@ Built for **[Agents That Act](https://hackculture.io/hackathons/agents-that-act)
 ---
 
 ## 👥 Team — `truecrew`
+
+> *Four brains, one repo, zero irreversible mistakes.*
+
 
 <div align="center">
 
