@@ -1,8 +1,10 @@
 <div align="center">
 
-# 🩹 PatchPilot
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=PatchPilot&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Detects.%20Fixes.%20Safely.&descAlignY=58&descSize=20&descColor=ffffff" />
 
-### *An AI agent that finds what's broken — and fixes it safely.*
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=6C5CE7&center=true&vCenter=true&width=600&lines=Reach+real+systems.;Run+real+code.;Stop+before+it+hurts." alt="Typing SVG" />
+
+<br/>
 
 <img src="https://img.shields.io/badge/status-active-6C5CE7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/built%20for-Agents%20That%20Act-00B894?style=for-the-badge" />
@@ -10,13 +12,13 @@
 <img src="https://img.shields.io/badge/python-3.10%2B-FDCB6E?style=for-the-badge&logo=python&logoColor=black" />
 <img src="https://img.shields.io/badge/license-MIT-74B9FF?style=for-the-badge" />
 
-<br/>
-
-**Reach real systems. Run real code. Stop before it hurts.**
+<br/><br/>
 
 [Overview](#-overview) • [How It Works](#-how-it-works) • [Setup](#-setup) • [Safety](#-safety--guardrails) • [Team](#-team) • [Hackathon](#-hackathon-context)
 
 </div>
+
+<br/>
 
 ---
 
@@ -180,5 +182,11 @@ Released under the **MIT License** — see [LICENSE](LICENSE) for details.
 <div align="center">
 
 **Built with intent. Fixed with care. Stopped when it mattered.** 🩹
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+[⬆ Back to top](#-patchpilot)
 
 </div>
